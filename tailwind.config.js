@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('./src/assets/neobruthalism.svg')",
+        "hero-pattern": "url('/neobruthalism.svg')",
       },
     },
   },
